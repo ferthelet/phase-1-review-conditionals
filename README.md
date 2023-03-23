@@ -2,10 +2,10 @@
 
 ## Learning Goals
 
-- Review what constitutes an expression in JavaScript
-- Organize code using block statements
-- Review the difference between truthy and falsy values
-- Review how to use conditional statements
+- Review what constitutes an expression in JavaScript.
+- Organize code using block statements.
+- Review the difference between truthy and falsy values.
+- Review how to use conditional statements.
 
 ## Introduction
 
